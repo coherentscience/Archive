@@ -1,3 +1,4 @@
+// This program works well for a singly linked list, except for delete previously added node only works one time
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
